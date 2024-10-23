@@ -1,0 +1,6 @@
+@Consious.Identity_HostAddress = http://localhost:5126
+
+GET {{Consious.Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
