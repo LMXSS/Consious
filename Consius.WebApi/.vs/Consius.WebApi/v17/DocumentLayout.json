@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal\\Consious\\Consius.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{663BCBF3-64D1-415B-9981-6AEB696F8E99}|Consiou.Test\\Consious.IntegrationTests.csproj|c:\\personal\\consious\\consius.webapi\\consiou.test\\tests\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BCBF3-64D1-415B-9981-6AEB696F8E99}|Consiou.Test\\Consious.IntegrationTests.csproj|solutionrelative:consiou.test\\tests\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BCBF3-64D1-415B-9981-6AEB696F8E99}|Consiou.Test\\Consious.IntegrationTests.csproj|c:\\personal\\consious\\consius.webapi\\consiou.test\\consious.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{663BCBF3-64D1-415B-9981-6AEB696F8E99}|Consiou.Test\\Consious.IntegrationTests.csproj|solutionrelative:consiou.test\\consious.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BCBF3-64D1-415B-9981-6AEB696F8E99}|Consiou.Test\\Consiou.Test.csproj|c:\\personal\\consious\\consius.webapi\\consiou.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BCBF3-64D1-415B-9981-6AEB696F8E99}|Consiou.Test\\Consiou.Test.csproj|solutionrelative:consiou.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F7CFD-5367-430C-8A49-8889B4198B20}|Consius.WebApi\\Consius.Host.csproj|c:\\personal\\consious\\consius.webapi\\consius.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F7CFD-5367-430C-8A49-8889B4198B20}|Consius.WebApi\\Consius.Host.csproj|solutionrelative:consius.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F7CFD-5367-430C-8A49-8889B4198B20}|Consius.WebApi\\Consius.Host.csproj|c:\\personal\\consious\\consius.webapi\\consius.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F7CFD-5367-430C-8A49-8889B4198B20}|Consius.WebApi\\Consius.Host.csproj|solutionrelative:consius.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A668D86-A426-419B-9DB9-F5D8C588E331}|Consius.Domain\\Consius.Domain.csproj|c:\\personal\\consious\\consius.webapi\\consius.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A668D86-A426-419B-9DB9-F5D8C588E331}|Consius.Domain\\Consius.Domain.csproj|solutionrelative:consius.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F7E29-784C-4FFE-9821-124521B95344}|Consious.Infrastructure\\Consious.Infrastructure.csproj|c:\\personal\\consious\\consius.webapi\\consious.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F7E29-784C-4FFE-9821-124521B95344}|Consious.Infrastructure\\Consious.Infrastructure.csproj|solutionrelative:consious.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserTest.cs",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consius.WebApi\\Consiou.Test\\Tests\\UserTest.cs",
+              "RelativeDocumentMoniker": "Consiou.Test\\Tests\\UserTest.cs",
+              "ToolTip": "C:\\Personal\\Consious\\Consius.WebApi\\Consiou.Test\\Tests\\UserTest.cs",
+              "RelativeToolTip": "Consiou.Test\\Tests\\UserTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:32:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consious.IntegrationTests.csproj",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consius.WebApi\\Consiou.Test\\Consious.IntegrationTests.csproj",
+              "RelativeDocumentMoniker": "Consiou.Test\\Consious.IntegrationTests.csproj",
+              "ToolTip": "C:\\Personal\\Consious\\Consius.WebApi\\Consiou.Test\\Consious.IntegrationTests.csproj",
+              "RelativeToolTip": "Consiou.Test\\Consious.IntegrationTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T02:31:06.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consius.WebApi\\Consius.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Consius.WebApi\\Program.cs",
+              "ToolTip": "C:\\Personal\\Consious\\Consius.WebApi\\Consius.WebApi\\Program.cs",
+              "RelativeToolTip": "Consius.WebApi\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:10:32.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consius.WebApi\\Consius.WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Consius.WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Personal\\Consious\\Consius.WebApi\\Consius.WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Consius.WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:03:37.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consius.WebApi\\Consious.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Consious.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Personal\\Consious\\Consius.WebApi\\Consious.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Consious.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:03:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consius.WebApi\\Consiou.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Consiou.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Personal\\Consious\\Consius.WebApi\\Consiou.Test\\UnitTest1.cs",
+              "RelativeToolTip": "Consiou.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:02:09.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consius.WebApi\\Consius.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Consius.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Personal\\Consious\\Consius.WebApi\\Consius.Domain\\Models\\User.cs",
+              "RelativeToolTip": "Consius.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:45:31.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
