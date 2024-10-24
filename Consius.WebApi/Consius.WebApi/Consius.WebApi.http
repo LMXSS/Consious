@@ -1,6 +1,0 @@
-@Consius.WebApi_HostAddress = http://localhost:5206
-
-GET {{Consius.WebApi_HostAddress}}/swagger/
-Accept: application/json
-
-###
