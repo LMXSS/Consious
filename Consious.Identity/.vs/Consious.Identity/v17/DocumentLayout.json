@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Personal\\Consious\\Consious.Identity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|c:\\personal\\consious\\consious.identity\\consious.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|solutionrelative:consious.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|c:\\personal\\consious\\consious.identity\\consious.identity\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|solutionrelative:consious.identity\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|c:\\personal\\consious\\consious.identity\\consious.identity\\migrations\\20241024005721_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|solutionrelative:consious.identity\\migrations\\20241024005721_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|c:\\personal\\consious\\consious.identity\\consious.identity\\consious.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|solutionrelative:consious.identity\\consious.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|c:\\personal\\consious\\consious.identity\\consious.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|solutionrelative:consious.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|c:\\personal\\consious\\consious.identity\\consious.identity\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|solutionrelative:consious.identity\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|c:\\personal\\consious\\consious.identity\\consious.identity\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|solutionrelative:consious.identity\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|c:\\personal\\consious\\consious.identity\\consious.identity\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF7CB88-BF05-409F-9D45-DA23C412460D}|Consious.Identity\\Consious.Identity.csproj|solutionrelative:consious.identity\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,67 +50,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\appsettings.json",
-              "RelativeDocumentMoniker": "Consious.Identity\\appsettings.json",
-              "ToolTip": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\appsettings.json",
-              "RelativeToolTip": "Consious.Identity\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T23:41:49.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Program.cs",
-              "RelativeDocumentMoniker": "Consious.Identity\\Program.cs",
-              "ToolTip": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Program.cs",
-              "RelativeToolTip": "Consious.Identity\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Consious.Identity\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Consious.Identity\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAgwBQBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:38:47.164Z",
+              "WhenOpened": "2024-10-24T00:59:18.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\DataContext\\DataContext.cs",
-              "RelativeDocumentMoniker": "Consious.Identity\\DataContext\\DataContext.cs",
-              "ToolTip": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\DataContext\\DataContext.cs",
-              "RelativeToolTip": "Consious.Identity\\DataContext\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "20241024005721_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Migrations\\20241024005721_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Consious.Identity\\Migrations\\20241024005721_Initial.Designer.cs",
+              "ToolTip": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Migrations\\20241024005721_Initial.Designer.cs",
+              "RelativeToolTip": "Consious.Identity\\Migrations\\20241024005721_Initial.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:35:34.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Consious.Identity\\WeatherForecast.cs",
-              "ToolTip": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\WeatherForecast.cs",
-              "RelativeToolTip": "Consious.Identity\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:34:42.754Z",
+              "WhenOpened": "2024-10-24T00:59:16.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Consious.Identity\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Consious.Identity\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:34:34.274Z",
+              "Title": "Consious.Identity",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Consious.Identity.csproj",
+              "RelativeDocumentMoniker": "Consious.Identity\\Consious.Identity.csproj",
+              "ToolTip": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\Consious.Identity.csproj",
+              "RelativeToolTip": "Consious.Identity\\Consious.Identity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T00:58:03.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "Consious.Identity\\appsettings.json",
+              "ToolTip": "C:\\Personal\\Consious\\Consious.Identity\\Consious.Identity\\appsettings.json",
+              "RelativeToolTip": "Consious.Identity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T00:57:47.808Z",
               "EditorCaption": ""
             }
           ]
